@@ -1,20 +1,17 @@
-# BTK Akademi Algoritma ve Veri Yapıları
+# Algoritma ve Veri Yapıları — Ders Çalışmaları
 
-## 📌 Kaynak
+> **Durum:** Arşiv · **Tür:** Eğitim çalışması · **Teknoloji:** C# · .NET Konsol
 
-Bu repo, **BTK Akademi** üzerinden alınan **Algoritma ve Veri Yapıları** kursuna ait notları içermektedir.  
-Kurs boyunca edinilen önemli kavramlar ve açıklamalar, sistemli bir şekilde buraya eklenmiştir.
-Halâ bitmiş değil ve zamanla eklenecektir.
+BTK Akademi'nin algoritma ve veri yapıları eğitimi boyunca yazılan örnekler.
+Diziler, bağlı listeler, yığın ve kuyruk gibi yapılar ile temel sıralama ve
+arama algoritmalarının uygulamaları yer alır.
 
-## 📄 İçerik  
+---
 
-📌 **Algoritma Temelleri**  
-📌 **Veri Yapıları**   
-📌 **Bağlı Listeler, Yığınlar, Kuyruklar**  - Eklenecek.
-📌 **Ağaçlar ve Graf Yapıları**  - Eklenecek.
-📌 **Sıralama ve Arama Algoritmaları**  - Eklenecek.
+## Çalıştırma
 
-## 🔧 Kullanım  
+```bash
+dotnet run
+```
 
-Bu repo, algoritma ve veri yapıları konusunda temel bilgileri içeren bir kaynak olarak kullanılabilir.  
-📂 **Dosyalar arasında gezerek** ilgili konulara ulaşabilirsiniz.
+Visual Studio ile `.sln` dosyası açılarak da çalıştırılabilir.
